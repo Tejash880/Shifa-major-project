@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic[email]
+sqlalchemy
+bcrypt
+python-jose[cryptography]
+python-multipart
+torch
+torchvision
+opencv-python-headless
+insightface
+onnxruntime
+httpx
+email-validator
